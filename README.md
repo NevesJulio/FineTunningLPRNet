@@ -22,6 +22,14 @@ FineTunning/
 python -m venv lpr_env  
 lpr_env\Scripts\activate  
 
+## Dependencies
+
+* pytorch >= 1.0.0
+* opencv-python 3.x
+* python 3.11
+* torchvision
+* opencv
+* numpy
 
 ##  Instalar dependências
 
